@@ -1,5 +1,10 @@
 This repository contains the code for the paper **A Mean-Field Approach to Criticality in Spiking Neural Networks for Reservoir Computing**.
 Simulations are performed to validate the theoretical predictions and analyze the spiking dynamics.
+<div align="center">
+  <img src="img/simulation_plots.png" alt="Simulation Plot" width="800"/>
+  <p><i>Example of the result image</i></p>
+</div>
+
 
 ### Introduction
 
