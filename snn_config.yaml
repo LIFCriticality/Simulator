@@ -7,6 +7,6 @@ simulation_params:
   currents_period: 0.01
   external_current: 1.5
   leak_coefficient: 0.01
-  simulation_duration: 10000
+  simulation_duration: 50000
   small_world_graph_p: 0.2
   small_world_graph_k: 100
