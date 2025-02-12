@@ -1,8 +1,6 @@
 This repository contains the code for the paper **A Mean-Field Approach to Criticality in Spiking Neural Networks for Reservoir Computing**.
 Simulations are performed to validate the theoretical predictions and analyze the spiking dynamics.
 
-Authors: Ruggero Freddi, Francesco Cicala, Laura Marzetti and Alessio Basti
-
 ### Introduction
 
 This software simulates the behavior of a **Leak Integrate-and-Fire (LIF)** neural network with a **small-world topology**. At each iteration, the membrane potential of each neuron is updated based on the following equation: the new potential is the old potential decreased proportionally to the leak constant, plus the sum of inputs from presynaptic spikes, weighted by the synaptic weight matrix.
