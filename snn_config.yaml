@@ -1,0 +1,12 @@
+seed: 42
+w_means_range_num_steps: 200
+experiment_repetitions: 1
+simulation_params:
+  num_neurons: 1000
+  membrane_threshold: 14
+  currents_period: 0.01
+  external_current: 1.5
+  leak_coefficient: 0.01
+  simulation_duration: 10000
+  small_world_graph_p: 0.2
+  small_world_graph_k: 100
